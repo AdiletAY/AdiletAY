@@ -1,0 +1,71 @@
+ADILET ALPYSBAY
+Full-Stack Developer
+
+Astana, Kazakhstan
++7 700 348 0417
+adiletay04@gmail.com
+
+Open to: full-time, part-time, or contract work — remote
+
+
+SUMMARY
+
+Full-stack developer with 3+ years of experience, strongest on the backend
+with Python (Django, FastAPI) and React on the frontend. I've built products
+end to end — designing the API, modeling the data in PostgreSQL,
+containerizing with Docker, and shipping the UI. Comfortable owning a
+service from first commit to production.
+
+
+EXPERIENCE
+
+Smart Remont — Middle Backend Developer
+Feb 2026 – Aug 2026 | Remote
+IT services: system integration and business process automation
+
+- Maintained and supported existing backend services in production
+- Extended services with new features based on business requirements
+- Built new services from scratch
+
+Ualikhanov University — Backend Developer (contract)
+Feb 2025 – Jun 2025 | Kokshetau, Kazakhstan
+
+- Built the backend for an electronic queue web service for university
+  applicants, letting them book time slots with admission officers to
+  submit their documents
+
+KoksheLab — Programming Instructor
+Oct 2024 – Mar 2025 | Kokshetau, Kazakhstan
+
+- Taught Python and backend development to students at a coding school
+
+Ualikhanov University — Backend Developer
+Mar 2023 – Sep 2024 | Kokshetau, Kazakhstan
+
+- Developed and maintained the server side of web applications in Python
+  (Django, FastAPI)
+- Designed and implemented REST APIs for integration with the frontend and
+  external services
+- Worked on the React.js frontend and handled client-server integration
+
+
+SKILLS
+
+Python, Django, FastAPI, PostgreSQL, SQL, Docker, Docker Compose, Linux,
+Git, JavaScript, React, REST APIs
+
+
+EDUCATION
+
+Sh. Ualikhanov Kokshetau University — Bachelor's degree, 2025
+Faculty of English Language | Translation Studies
+
+Kazakh-British Technical University (KBTU), Almaty — 2021 (incomplete)
+Faculty of Information Technologies
+
+
+LANGUAGES
+
+Kazakh — native
+Russian — fluent
+English — professional working proficiency
